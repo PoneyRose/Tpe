@@ -32,7 +32,7 @@
     <div>
     <div id="pgrh1">
         <marquee behavior="slide" direction="right" scrollamount="10" style="font-size:25px ;" loop=999999 >
-        / Texte à entrer /
+        / Texte à entrer / bubu
         </marquee>
 
             <div>
